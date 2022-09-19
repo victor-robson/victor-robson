@@ -14,7 +14,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Victor-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/768120345042878486/1017882344050413628/Img_Victor.png">
+  <img align="right" alt="Victor-Gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/414074736759406594/1021490195239030844/download20220901153113.png?width=473&height=473">
 </div>
 
 ##
